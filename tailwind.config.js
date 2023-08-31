@@ -6,6 +6,19 @@ module.exports = {
     './src/app/**/*.{js,ts,jsx,tsx,mdx}',
   ],
   theme: {
+    colors: {
+      'main': '#E79718',
+      'light': '#4EA4B8',
+      'lighter': '#F0EFEC',
+      'dark' : '#A25622',
+      'darker' : '#1D1C21',
+      'hoverMain' : '#62caf5',
+      'hoverLighter' : '#B8D7E2',
+    },
+    fontFamily: {
+      'links': ['Josefin Sans', 'sans-serif'],
+      'info': ['Raleway', 'sans-serif'],
+    },
     extend: {
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
