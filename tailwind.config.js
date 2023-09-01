@@ -14,6 +14,9 @@ module.exports = {
       'darker' : '#1D1C21',
       'hoverMain' : '#62caf5',
       'hoverLighter' : '#B8D7E2',
+      'maroon' : '#AC2139',
+      'darkBlue': '#1D275C',
+      'pink' : '#DB727C',
     },
     fontFamily: {
       'links': ['Josefin Sans', 'sans-serif'],
