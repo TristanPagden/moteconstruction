@@ -1,7 +1,7 @@
 import './globals.css'
 
 export const metadata = {
-  title: 'Mote construction',
+  title: 'Mote Building and Plastering',
 }
 
 export default function RootLayout({ children }) {
